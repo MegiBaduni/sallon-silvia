@@ -3,7 +3,7 @@
 Official website for **Silvia Salon & Spa** by Silvia Goxha, a luxury women-only salon based in Sarandë, Albania.
 
 ## Live Site
-[View Website](https://YOUR_USERNAME.github.io/silvia-salon)
+[View Website]
 
 ## Features
 - Video-first luxury design with real salon footage
